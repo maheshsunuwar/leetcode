@@ -1,2 +1,6 @@
-# blind75-leetcode
-Solutions of Blind 75 leetcode problems
+# eetcode
+Solutions of Leetcode problems
+
+Working on Blind75 Problems right now.
+
+[ ] Blind 75
