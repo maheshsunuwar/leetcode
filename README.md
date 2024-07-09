@@ -1,4 +1,4 @@
-# eetcode
+# Leetcode
 Solutions of Leetcode problems
 
 Working on Blind75 Problems right now.
