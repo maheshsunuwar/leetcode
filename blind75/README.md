@@ -9,6 +9,8 @@
 * `100. Same Tree`
 * `268. Missing Number`
 * `20. Valid Parantheses`
+* `21. Merge Two Sorted Lists (WIP)`
+* `141. Linked List Cycle`
 
 ### Medium
 * `238. Product of Array Except Self`
