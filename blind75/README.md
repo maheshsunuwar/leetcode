@@ -11,6 +11,7 @@
 * `20. Valid Parantheses`
 * `21. Merge Two Sorted Lists (WIP)`
 * `141. Linked List Cycle`
+* `190. Reverse Bits`
 
 ### Medium
 * `238. Product of Array Except Self`
