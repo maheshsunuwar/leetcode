@@ -24,3 +24,6 @@
 
 ***Sliding Window***
 - [x] 3. Longest Substring Without Repeating Characters
+- [x] 992. Subarrays with K Different Integers
+- [x] Subarray Product Less than k
+- [x] 560. Subarray Sum Equals K
